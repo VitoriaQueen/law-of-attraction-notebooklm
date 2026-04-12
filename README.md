@@ -13,7 +13,7 @@ Objectives:
 
 ## 📚 Curated Sources
 
-1. 📄 [The Architecture of Alignment (PDF)](./assets/architecture-of-alignment.pdf)
+1. 📄 [The Architecture of Alignment (PDF)](./assets/The_Architecture_of_Alignment_Visual_Guide_to_Understand_the_Law_of_Attraction.pdf)
 2. 🎥 Path of Least Resistance (YouTube)  
   [ https://www.youtube.com/watch?v=b9Da_bobIQw
    https://youtu.be/b9Da_bobIQw
