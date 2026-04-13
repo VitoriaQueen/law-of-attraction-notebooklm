@@ -21,3 +21,12 @@ Create a 7-item bullet list, each item consisting of one phrase, which summarize
 
 <img src="./assets/fixed_prompt.png" width="400"/>
 
+
+## ♻️ Reusable Prompts
+
+- Discuss what these sources say about Vibrational frequency, in the larger context of Law of Attraction. <br />
+- Discuss what these sources say about Practical Techniques, in the larger context of Abraham Hicks & Law of Attraction. <br />
+- What is the 5-step process for manifestation? <br />
+- Explain the difference between inspired action and forced action.
+
+
