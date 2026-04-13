@@ -11,11 +11,12 @@
 
 ---
 
-### Prompt # 1 Result
-### Prompt # 1: Create a 7-item list with the main teachings of Abraham Hicks. <br />
+
 
 ## 📄 The Law of Attraction - A Summarized Guide
 
 [The Law of Attraction – A Summarized Guide](./assets/The_law_of_attraction_.pdf)
 
-This document explains the core principles of alignment and manifestation.
+This document explains the core principles of alignment and manifestation. <br /> 
+
+---
